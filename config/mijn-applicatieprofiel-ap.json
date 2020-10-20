@@ -18,7 +18,8 @@
     {
       "language":"en",
       "template": "mijn-applicatieprofiel-ap_en.j2",
-      "title": "My Application Profile"
+      "title": "My Application Profile",
+      "translationjson":"mijn-applicatieprofiel-ap_en.json"
     }
   ]
 }

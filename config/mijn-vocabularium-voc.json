@@ -16,7 +16,9 @@
   "translation": [
     {
       "language":"en",
-      "template":"mijn-vocabularium-voc_en.j2"
+      "template":"mijn-vocabularium-voc_en.j2",
+      "title":"mein-Vokabular-Voc",
+      "translationjson":"mijn-vocabularium-voc_en.json"
     }
   ]
 }
