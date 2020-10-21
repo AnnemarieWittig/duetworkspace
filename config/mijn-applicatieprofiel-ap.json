@@ -19,7 +19,8 @@
       "language":"en",
       "template": "mijn-applicatieprofiel-ap_en.j2",
       "title": "My Application Profile",
-      "translationjson":"mijn-applicatieprofiel-ap_en.json"
+      "translationjson":"mijn-applicatieprofiel-ap_en.json",
+      "mergefile":"mijn-applicatieprofiel-ap_merged.jsonld"
     }
   ]
 }

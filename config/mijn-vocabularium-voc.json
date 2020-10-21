@@ -18,7 +18,8 @@
       "language":"en",
       "template":"mijn-vocabularium-voc_en.j2",
       "title":"mein-Vokabular-Voc",
-      "translationjson":"mijn-vocabularium-voc_en.json"
+      "translationjson":"mijn-vocabularium-voc_en.json",
+      "mergefile":"mijn-vocabularium-voc_merged.jsonld"
     }
   ]
 }
