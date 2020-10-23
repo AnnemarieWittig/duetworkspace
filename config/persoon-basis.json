@@ -20,6 +20,13 @@
         "title":"Person Basis",
         "translationjson":"persoon-basis_en.json",
         "mergefile":"persoon-basis_merged.jsonld"
+      },
+      {
+        "language":"nl",
+        "template":"persoon-basis-ap.j2",
+        "title":"Persoon Basis",
+        "translationjson":"persoon-basis.jsonld",
+        "mergefile":"persoon-basis_merged.jsonld"
       }
     ]
   }

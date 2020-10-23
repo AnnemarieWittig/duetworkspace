@@ -20,6 +20,13 @@
       "title":"mein-Vokabular-Voc",
       "translationjson":"mijn-vocabularium-voc_en.json",
       "mergefile":"mijn-vocabularium-voc_merged.jsonld"
+    },
+    {
+      "language":"nl",
+      "template":"mijn-vocabularium-voc.j2",
+      "title":"Mijn Vocabularium",
+      "translationjson":"mijn-vocabularium-voc.jsonld",
+      "mergefile":"mijn-vocabularium-voc_merged.jsonld"
     }
   ]
 }
